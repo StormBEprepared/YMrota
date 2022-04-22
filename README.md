@@ -16,7 +16,7 @@ The second page is showing all of the selected marshalls, their training and the
 ![image](https://user-images.githubusercontent.com/96778964/164803272-2d3a1233-cf14-461b-96eb-f2d325089f69.png)
 
 
-Once you press the generate rota button the rota for the given headcount will be printed using an algorith that first deploys the morning shift associates
+Once you press the generate rota button the rota for the given headcount will be printed using an algorithm that first deploys the morning shift associates
 without a specified role as per the shift fluctuating list of tasks. The second ones to be deployed are the one with risk assesment to make sure that they
 will be deployed on proper positions according to their health needs. The last ones will be the other associates. All of the deployment process is using 
 the algorithm created for a better role rotation that uses the past deployments for each of the associates so they will be deployed on different spots throughout 
